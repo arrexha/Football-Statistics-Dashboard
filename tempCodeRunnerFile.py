@@ -1,0 +1,1 @@
+pages[selected_page]
