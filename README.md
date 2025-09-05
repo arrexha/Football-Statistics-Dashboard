@@ -362,7 +362,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 📞 Support & Contact
 
-- **GitHub Issues**: [Create an issue](https://github.com/arrexha/soccer-statistics-dashboard/issues)
+- **GitHub Issues**: [Create an issue](https://github.com/arrexha/Soccer-Dashboard/issues/new)
 - **Email**: arrexha529@gmail.com
 - **Twitter**: [@ArRexha00](https://twitter.com/ArRexha00)
 
