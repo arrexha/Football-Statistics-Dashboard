@@ -1,4 +1,4 @@
-# ⚽ Soccer Statistics Dashboard
+# ⚽ Football Statistics Dashboard
 
 A comprehensive, interactive web application for analyzing soccer statistics and predictions, built with Streamlit and Plotly. This professional analytics platform provides real-time insights into player performance, team analytics, league standings, and AI-powered match predictions.
 
